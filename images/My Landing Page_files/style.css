@@ -1,0 +1,26 @@
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 25px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: font-family: 'Sahitya', serif;
+  color: red;
+  font-weight: lighter;
+  font-size: 10px;
+}
+h2 {
+  font-family: Courier;
+  color: #0D3B66;
+  font-weight: lighter;
+  font-size: 20px;
+}
+a {
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
